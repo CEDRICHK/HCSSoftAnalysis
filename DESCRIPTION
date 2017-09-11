@@ -4,7 +4,7 @@ Title: HCSSoftAnalysis
 Version: 0.0.0.9000
 Author: HASSEN-KHODJA CEDRIC
 Maintainer: HASSEN-KHODJA CEDRIC <cedric.hassen-khodja@mri.cnrs.fr>
-Description: This is an framework to purpose statistical analysis for the high 
+Description: This is a framework to purpose statistical analysis for the high 
     content screening data.
 License: MIT
 Encoding: UTF-8
